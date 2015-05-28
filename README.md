@@ -1,6 +1,6 @@
 # MonPremierFichier
 Une demo de git
 
-Une modification effectuée
+Une nouvelle ligne
 
 une seconde modification
